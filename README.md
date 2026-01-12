@@ -21,7 +21,7 @@ The Power BI report includes the following components:
 ## Live Dashboard
 
 Access the interactive Power BI report here:  
-[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDdlNzFkNzYtMjZiNi00YjlmLWI0ODMtNTFhMWIxODhhNDJkIiwidCI6ImU1ZjJhNDI0LTY4NjYtNDE4ZC1hY2U4LWQxMzVjMGU4YmQ1NiJ9)
+[View Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=0624674b-e649-492b-863c-0e61be089af6&autoAuth=true&ctid=e5f2a424-6866-418d-ace8-d135c0e8bd56)
 
 ## Technologies Used
 
