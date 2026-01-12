@@ -1,28 +1,39 @@
-📊 Power BI Dashboard – Interactive Business Analytics
+# Power BI Sales Insights Dashboard
 
-This repository showcases an interactive Power BI dashboard designed to analyze and visualize key business performance metrics in a clear and intuitive manner. The dashboard consolidates structured data into meaningful insights, enabling users to monitor trends, compare performance across categories, and support data-driven decision-making.
+## Overview
 
-The report includes:
+This repository contains a Power BI dashboard designed to analyze and visualize sales data from BlinkIT Grocery. The dashboard provides comprehensive insights into business performance metrics, enabling data-driven decision-making through interactive visualizations.
 
-Key Performance Indicators (KPIs) to provide a high-level overview of overall performance
+## Data Source
 
-Comparative visualizations (bar and stacked charts) for category-wise and segment-wise analysis
+- **File**: `BlinkIT Grocery Data.xlsx`
+- **Type**: Excel workbook containing structured sales and operational data
 
-Trend analysis to observe changes over time
+## Dashboard Features
 
-Interactive filtering and drill-down capabilities for deeper exploration of the data
+The Power BI report includes the following components:
 
-The dashboard is suitable for business reporting, academic analysis, and analytics portfolios, demonstrating practical use of Power BI features such as data modeling, DAX measures, and interactive visuals.
+- Key Performance Indicators (KPIs) for business metrics
+- Sales analysis by category and segment
+- Trend analysis and performance tracking
+- Interactive filters and drill-down capabilities
 
-🔗 Live Power BI Report
+## Live Dashboard
 
-You can view the interactive dashboard here:
-👉 [Open Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=0624674b-e649-492b-863c-0e61be089af6&autoAuth=true&ctid=e5f2a424-6866-418d-ace8-d135c0e8bd56)
+Access the interactive Power BI report here:  
+[View Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=0624674b-e649-492b-863c-0e61be089af6&autoAuth=true&ctid=e5f2a424-6866-418d-ace8-d135c0e8bd56)
 
-🛠 Tools & Technologies
+## Technologies Used
 
-Power BI Desktop
+- **Power BI Desktop** - Dashboard development and visualization
+- **DAX** - Data Analysis Expressions for calculated measures
+- **Excel** - Data source and preprocessing
 
-DAX (Data Analysis Expressions)
+## Repository Contents
 
-Data Modeling & Visualization
+- `BlinkIT Grocery Data.xlsx` - Source data file
+- `README.md` - Project documentation
+
+---
+
+*This dashboard demonstrates the application of business intelligence tools for sales analytics and reporting.*
